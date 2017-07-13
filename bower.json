@@ -1,25 +1,26 @@
 {
-  "name": "ng-echarts",
-  "description": "angularjs + echarts by liekkas",
-  "authors": [
-    "liekkas"
-  ],
-  "license": "MIT",
-  "keywords": [
-    "angularjs",
-    "echarts"
-  ],
-  "homepage": "https://github.com/liekkas/ng-echarts",
-  "main": "./dist/ng-echarts.min.js",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "angular": "~1.3",
-    "echarts": "~3.6"
-  }
+    "name": "ng-echarts",
+    "description": "angularjs + echarts by liekkas",
+    "version": "3.0.0",
+    "authors": [
+        "liekkas"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "angularjs",
+        "echarts"
+    ],
+    "homepage": "https://github.com/liekkas/ng-echarts",
+    "main": "./dist/ng-echarts.min.js",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "~1.3",
+        "echarts": "~3.6"
+    }
 }
